@@ -1,0 +1,23 @@
+# data and model weights (never committed)
+data/
+checkpoints/
+results/preds/
+results/preds_*/
+results/scores/
+results/scores_*/
+results/contamination/*.npz
+logs/
+archive/
+repos/
+
+# audio / neural / array files
+*.wav
+*.npz
+*.npy
+*.h5
+*.nwb
+
+# environment
+.venv/
+__pycache__/
+*.pyc

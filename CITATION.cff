@@ -1,0 +1,31 @@
+cff-version: 1.2.0
+message: "If you use this code or these results, please cite the extended abstract below and the dataset (Verwoert et al., 2022)."
+title: "What Do sEEG Speech Decoders Recover? Continuous vs. Discrete Codec Targets Under Matched Floors and Ceilings"
+authors:
+  - family-names: Chishti
+    given-names: Saim
+    affiliation: Bahria University
+license: MIT
+repository-code: "https://github.com/saimchishti/Speech-Brain-AI4BCI"
+date-released: 2026-10-13
+preferred-citation:
+  type: conference-paper
+  title: "What Do sEEG Speech Decoders Recover? Continuous vs. Discrete Codec Targets Under Matched Floors and Ceilings"
+  authors:
+    - family-names: Chishti
+      given-names: Saim
+      affiliation: Bahria University
+  collection-title: "AI4BCI 2026 (extended abstract)"
+  year: 2026
+references:
+  - type: article
+    title: "Dataset of Speech Production in intracranial Electroencephalography"
+    authors:
+      - family-names: Verwoert
+        given-names: Maxime
+      - name: "others"
+    journal: "Scientific Data"
+    volume: 9
+    start: 434
+    year: 2022
+    doi: "10.1038/s41597-022-01542-9"
